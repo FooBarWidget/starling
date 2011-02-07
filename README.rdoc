@@ -11,22 +11,15 @@ that speaks MemCache can take advantage of Starling's queue facilities.
 
 = Installation
 
-  The Starling source is hosted at GitHub and can be found at:
+The Starling source is hosted at GitHub and can be found at:
 
-  http://github.com/starling/starling/tree/master
+  https://github.com/starling/starling
 
-  The original source was to be found at RubyForge but no longer exists there.
+The original source was to be found at RubyForge but no longer exists there.
 
-  GitHub serves gems prefixed by a username to differentiate different forks.
-  This project can be installed with:
+This project can be installed with:
 
-  # THIS COMMAND ONE TIME ONLY
-  gem sources -a http://gems.github.com/
-
-  # As often as you like
-  sudo gem install starling-starling
-
-  See http://gems.github.com/ if you want more info about GitHub and gems.
+  sudo gem install starling
 
 = Quick Start Usage
 
